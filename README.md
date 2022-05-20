@@ -1063,7 +1063,7 @@ The reflection adapter requires the following additional dependency:
 <dependency>
   <groupId>com.squareup.moshi</groupId>
   <artifactId>moshi-kotlin</artifactId>
-  <version>1.12.0</version>
+  <version>1.13.0</version>
 </dependency>
 ```
 
